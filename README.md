@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Misbah Ur Rahman
 - 👀 I’m interested in tech stuff and coding
-- 🌱 I’m currently learning JAVA
+- 🌱 Tech-stack: HTML/CSS/JS, C/C++
 
 <!---
 TheCodieCoder/TheCodieCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
